@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.examprep",
+  "webDir: "Exam Prep",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
