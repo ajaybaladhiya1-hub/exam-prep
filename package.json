@@ -1,0 +1,15 @@
+{
+  "name": "exam-prep",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "uuid": "^9.0.0",
+    "@capacitor/core": "^6.1.0",
+    "@capacitor/cli": "^6.1.0"
+  },
+  "scripts": {
+    "build": "node ./scripts/build.mjs"
+  }
+}
